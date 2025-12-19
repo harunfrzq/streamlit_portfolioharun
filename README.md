@@ -1,9 +1,9 @@
 # streamlit_portfolioharun
 
-# Bank Customer Churn Dashboard (Streamlit)
+# Harun Fathurrozaq — Data Analyst Portfolio (Streamlit)
 
-Dashboard interaktif untuk menganalisis customer churn pada industri perbankan
-menggunakan Streamlit dan Plotly.
+Portfolio interaktif berbasis Streamlit yang menampilkan profil profesional, kumpulan project data, serta implementasi Machine Learning Prediction.
+Project ini dirancang dengan UI modern, clean (light mode), dan animasi halus agar nyaman dilihat serta layak digunakan sebagai portfolio profesional.
 
 ## Dataset
 
